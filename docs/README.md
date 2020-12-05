@@ -12,7 +12,7 @@ If you want you can help me to increase the list, i would thank you very much fo
 
 **Rules mask**
 * `+###` - First DDI.
-* `####` For each **'#'** is one number.
+* `####` - For each **'#'** is one number.
 
 ```php
     'country_code' => [
