@@ -23,7 +23,7 @@ If you want you can help me to increase the list, i would thank you very much fo
 
 ---
 
-## Your have question?!
+## You have a question?!
 
 Send me a **DM** in **instagram**:  
 [@aparecido.ts](https://www.instagram.com/aparecido.ts/)
